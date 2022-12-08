@@ -15,54 +15,54 @@ o - add a new line
 
 ### Images
 
-![Part 2!](images/1)
+![Part 2](/images/1.png)
 
 ## Part 3
 
 Running `man journalctl`
 
-![Part 3!](images/2)
+![Part 3](/images/2.png)
 
 1. Ran `/current boot` in man page
 
-![Part 3!](images/3)
+![Part 3](/images/3.png)
 
 2. Ran `/priority` in man page
 
-![Part 3!](images/4)
+![Part 3](/images/4.png)
 
 3. Ran `/output` in man page
 
-![Part 3!](images/5)
+![Part 3](/images/5.png)
 
 5. Ran `/json` in man page
 
-![Part 3!](images/6)
+![Part 3](/images/6.png)
 
 ### output
 
-![Part 3!](images/7)
+![Part 3](/images/7.png)
 
 
 ## Part 4
 
 adding two new users
 
-![Part 4!](images/8)
+![Part 4](/images/8.png)
 
 Writing script
 
-![Part 4!](images/9)
+![Part 4](/images/9.png)
 
-![Part 4!](images/10)
+![Part 4](/images/10.png)
 
 Changing file to executable
 
-![Part 4!](images/11)
+![Part 4](/images/11.png)
 
 Running the file
 
-![Part 4!](images/12)
+![Part 4](/images/12.png)
 
 updated script with motd
 
