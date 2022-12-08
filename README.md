@@ -96,4 +96,9 @@ Creating service file
 
 ![Part 5](/images/15.png)
 
+Running
+
+
+![Part 5](/images/16.png)
+
 
