@@ -19,6 +19,8 @@ o - add a new line
 
 ## Part 3
 
+Running `man journalctl`
+
 ![Part 3!](images/2)
 
 1. Ran `/current boot` in man page
@@ -40,3 +42,11 @@ o - add a new line
 ### output
 
 ![Part 3!](images/7)
+
+## Part 4
+
+adding two new users
+
+![Part 3!](images/8)
+
+
