@@ -43,10 +43,45 @@ Running `man journalctl`
 
 ![Part 3!](images/7)
 
+
 ## Part 4
 
 adding two new users
 
-![Part 3!](images/8)
+![Part 4!](images/8)
 
+Writing script
 
+![Part 4!](images/9)
+
+![Part 4!](images/10)
+
+Changing file to executable
+
+![Part 4!](images/11)
+
+Running the file
+
+![Part 4!](images/12)
+
+updated script with motd
+
+```
+#!/bin/bash
+
+# Find regular users and logged in users
+
+echo "Regular users on the system are:" >> /etc/motd
+awk -F: '$3 >= 1000 && $3 <= 5000 {print $1 " " $3 " " $7}' /etc/passwd >> /etc/motd
+
+echo "Users currently logged in are:" >> /etc/motd
+w -h | awk '{print $1}' >> /etc/motd
+
+# Or, using who:
+# who | awk '{print $1}' >> /etc/motd
+
+```
+
+moving files
+
+![Part 4!](images/13)
